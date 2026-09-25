@@ -4,7 +4,7 @@ Os arquivos do teste prático estão localizados na pasta **`Projeto Mao na Mass
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Opção 1: Via Terminal/PowerShell
 
@@ -57,4 +57,3 @@ Diante disso, você deve desenvolver um projeto java, com os seguintes requisito
 
 ---
 
-**Pronto para executar! 🎉**
